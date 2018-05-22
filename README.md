@@ -108,7 +108,7 @@ function animate(){
 
 Every time the animate function is called, the hologram rotation property is increased by 0.01 for x and y axes. This makes the hologram looks its rotating around those axes.  
 Congratulations! You have just created your first HoloLens application. Now, let's see how it looks like on the HoloLens emulator: 
-![hololens javascript emulator](images/buildwageditor.png)
+![hololens javascript emulator](images/buildwagoneditor.png)
 
 You can try the emulator yourself at: [buildwagon online editor](https://www.binarieslid.com/hololensdevelopmentfullscreen.aspx) with some limitations or [create a free profile at buildawgon](https://secure.buildwagon.com/TenantRegistration/SelectEdition) to create your own projects. Try adding the code we created yourself and see how it works.
 
