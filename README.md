@@ -110,7 +110,7 @@ Every time the animate function is called, the hologram rotation property is inc
 Congratulations! You have just created your first HoloLens application. Now, let's see how it looks like on the HoloLens emulator: 
 ![hololens javascript emulator](images/buildwagoneditor.PNG)
 
-You can try the emulator yourself at: [buildwagon online editor](https://www.binarieslid.com/hololensdevelopmentfullscreen.aspx) with some limitations or [create a free profile at buildawgon](https://secure.buildwagon.com/TenantRegistration/SelectEdition) to create your own projects. Try adding the code we created yourself and see how it works.
+You can try the emulator yourself at: [buildwagon online editor](https://buildwagon.com/holoemulator.html) with some limitations or [create a free profile at buildawgon](https://secure.buildwagon.com/TenantRegistration/SelectEdition) to create your own projects. Try adding the code we created yourself and see how it works.
 
 The HoloLens emulator allows you to test holographic apps on your browser without a physical HoloLens.  
 **Emulator input:** Start by clicking on the human icon
